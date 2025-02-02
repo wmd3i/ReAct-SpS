@@ -52,3 +52,13 @@ Results for  SpS
 Throughput: 2.80 tokens/sec
 Latency: 0.356 sec/token
 ```
+# Citation
+```
+@inproceedings{
+xu2024can,
+title={Can Speculative Sampling Accelerate ReAct Without Compromising Reasoning Quality?},
+author={Han Xu and Jingyang Ye and Yutong Li and Haipeng Chen},
+booktitle={The Second Tiny Papers Track at ICLR 2024},
+year={2024}
+}
+```
